@@ -1,0 +1,47 @@
+{
+  "item_rows": 4637,
+  "outfit_rows": 1000,
+  "item_rows_by_group": {
+    "Child": 841,
+    "Female": 2406,
+    "Male": 1390
+  },
+  "outfit_rows_by_group": {
+    "Child": 200,
+    "Female": 500,
+    "Male": 300
+  },
+  "item_columns": [
+    "group",
+    "itemID",
+    "category",
+    "title",
+    "gender",
+    "style",
+    "outline",
+    "materials",
+    "color",
+    "pattern",
+    "detail",
+    "donning/doffing",
+    "source_itemID",
+    "item_key",
+    "ml_text"
+  ],
+  "outfit_columns": [
+    "group",
+    "outfitID",
+    "items",
+    "look",
+    "season",
+    "occasion",
+    "source_outfitID",
+    "outfit_key",
+    "item_keys"
+  ],
+  "clean_item_rows": 4637,
+  "clean_outfit_rows": 1000,
+  "train_rows_preview_split": 3709,
+  "test_rows_preview_split": 928,
+  "target_column": "category"
+}

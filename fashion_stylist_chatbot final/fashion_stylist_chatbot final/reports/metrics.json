@@ -1,0 +1,14 @@
+{
+  "task": "predict original item category from item text fields",
+  "target_column": "category",
+  "algorithm": "TF-IDF + Logistic Regression",
+  "total_eligible_rows": 4637,
+  "train_rows": 3709,
+  "test_rows": 928,
+  "class_count": 8,
+  "accuracy": 0.9827586206896551,
+  "random_state": 42,
+  "test_size": 0.2,
+  "model_file": "category_model.joblib",
+  "note": "Metrics are measured on the held-out test split; they are not a measure of outfit recommendation quality."
+}

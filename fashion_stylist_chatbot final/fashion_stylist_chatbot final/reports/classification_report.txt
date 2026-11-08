@@ -1,0 +1,14 @@
+               precision    recall  f1-score   support
+
+    accessory       0.99      0.97      0.98        80
+          bag       1.00      0.97      0.98        63
+       bottom       0.99      1.00      1.00       199
+    inner_top       0.96      0.96      0.96       137
+mid_layer_top       0.95      0.96      0.96       104
+     onepiece       0.80      0.80      0.80         5
+    outerwear       0.99      0.99      0.99       145
+        shoes       0.99      1.00      0.99       195
+
+     accuracy                           0.98       928
+    macro avg       0.96      0.96      0.96       928
+ weighted avg       0.98      0.98      0.98       928
